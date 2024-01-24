@@ -17,4 +17,4 @@ motion blur. Furthermore, our Temporal-aware Network (TANet) further suppresses 
 features. Extensive experimental results have demonstrated that our method outperforms state-of-the-art methods.
 
 ### Visual Comparison: Our Method vs State-of-the-Art
-![](https://github.com/leadingme163/Blind-3D-Video-Stabilization/blob/main/Our_vs_Sota.gif)
+![image]([https://github.com/ZhengYaWei1992/ZWProgressView/blob/master/Untitled3.gif](https://github.com/leadingme163/Blind-3D-Video-Stabilization/blob/main/Our_vs_Sota.gif)https://github.com/leadingme163/Blind-3D-Video-Stabilization/blob/main/Our_vs_Sota.gif)
